@@ -408,7 +408,7 @@
   .newsletter-section .form-control, .newsletter-section .btn { height: 56px; }
 
   /* Blog */
-  #blog-1 .col-lg-4 { padding-left: 8px; padding-right: 8px; }
+  #events-catering .col-lg-4 { padding-left: 8px; padding-right: 8px; }
   .blog-post-txt { padding: 0; }
   .blog-post-txt p { font-size: 0.95rem; }
 
@@ -767,8 +767,8 @@
   .pbox-6-txt p { padding: 0 15%; margin-bottom: 20px; }
   .pbox-6-price h5 { font-size: 1.65rem; }
 
-  /* Promo-7 */
-  #promo-7 { padding-bottom: 50px; }
+  /* promo-offers */
+  #promo-offers { padding-bottom: 50px; }
   .pbox-7-img { display: inline-block; width: 50%; float: left; }
   .pbox-7-txt { display: inline-block; width: 50%; }
 
@@ -1379,7 +1379,7 @@
   .pbox-6-txt p { padding: 0 15%; margin-bottom: 20px; }
   .pbox-6-price h5 { font-size: 1.7rem; }
 
-  #promo-7 { padding-bottom: 40px; }
+  #promo-offers { padding-bottom: 40px; }
   .pbox-7 { margin-bottom: 40px; }
   #pb-7-1, #pb-7-2, #pb-7-3 { padding: 30px 15px 0; }
   .pbox-7-txt h4 { font-size: 1.85rem; }
@@ -1905,7 +1905,7 @@
   .pbox-6-txt h4 { font-size: 1.7rem; }
   .pbox-6-price h5 { font-size: 1.7rem; }
 
-  #promo-7 { padding-bottom: 40px; }
+  #promo-offers { padding-bottom: 40px; }
   .pbox-7 { margin-bottom: 40px; }
   #pb-7-1, #pb-7-2, #pb-7-3 { padding: 30px 15px 0; }
   .pbox-7-txt h4 { font-size: 1.7rem; }
@@ -2456,7 +2456,7 @@
   .pbox-6-txt h4 { font-size: 1.7rem; }
   .pbox-6-price h5 { font-size: 1.7rem; }
 
-  #promo-7 { padding-bottom: 40px; }
+  #promo-offers { padding-bottom: 40px; }
   .pbox-7 { margin-bottom: 40px; }
   #pb-7-1, #pb-7-2, #pb-7-3 { padding: 30px 0 0; }
   .pbox-7-txt h4 { font-size: 1.7rem; }
@@ -3023,7 +3023,7 @@
   .pbox-7-price { margin-top: 15px; }
   .pbox-6-price h5 { font-size: 1.7rem; }
 
-  #promo-7 { padding-bottom: 40px; }
+  #promo-offers { padding-bottom: 40px; }
   .pbox-7 { margin-bottom: 40px; }
   #pb-7-1, #pb-7-2, #pb-7-3 { padding: 30px 0 0; }
   .pbox-7-txt h4 { font-size: 1.7rem; }
